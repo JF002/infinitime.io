@@ -22,3 +22,12 @@ Infinitime is an open source firmware for the [Pinetime](https://www.pine64.org/
     * **Amazfish** (on SailfishOS)
 * [Experimental] **OTA** (Over-the-air) update via BLE
 * [Experimental] **Bootloader** based on MCUBoot
+
+### Integration with Amazfish
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://video.codingfield.com/videos/embed/f3c4c81f-22df-4728-b5fb-982299476e07" frameborder="0" allowfullscreen></iframe>
+
+### Integration with Gadgetbridge
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://video.codingfield.com/videos/embed/6363b421-77b1-4c61-a79b-82c0375dca8a" frameborder="0" allowfullscreen></iframe>
+
+### OTA
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://video.codingfield.com/videos/embed/ad7b7368-f4e5-4352-9388-f69529d1b4fd" frameborder="0" allowfullscreen></iframe>
