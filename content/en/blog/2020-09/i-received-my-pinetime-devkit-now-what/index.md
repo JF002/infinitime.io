@@ -7,9 +7,13 @@ tags: ["PineTime"]
 First of all, congratulations! I hope you'll have a lot of fun coding, hacking and building projects around the PineTime.
 
 # About the devkit
+The Pinetime is built around the NRF52832 SoC supporting Bluetooth low energy (BLE). It is a ARM Cortex-M4 CPU running at 64Mhz and equipped with 512KB of flash memory, and 64KB of RAM memory. 
+
+PineTime also embeds a LCD display, a touchpanel, a button, a vibrator, a heart rate sensor and a motion sensor.
+
 The first batch of PineTime devkits (end 2019) was preloaded with a demo firmware that implemented most of the functionalities of the watch. It was quite nice, but it was proprietatry, closed source.
 
-Since them, the community worked hard and [many projects have been created](https://wiki.pine64.org/index.php?title=PineTime#Development_efforts), all of them based on different technologies, languages, RTOS and tools.
+Since then, the community worked hard and [many projects have been created](https://wiki.pine64.org/index.php?title=PineTime#Development_efforts), all of them based on different technologies, languages, RTOS and tools.
 
 A few weeks ago, Pine64 asked the community to provide an open source firmware that would be preloaded in the next batch of PineTime devkits, and **[InfiniTime](https://github.com/JF002/Pinetime)** is the chosen one.
 
@@ -38,7 +42,7 @@ Now, InfiniTime implements basic functionalities like time synchronization, noti
 You can of course use it as a watch, but you'll probably notice that you want more functionalities, or that you want to test another firmware.
 
 ## Upgrade InfiniTime or install another compatible firwmare
-As of now, InfiniTime 0.7.1 is the latest released version, but 0.8.0 is to be released soon. We have to fix one annoying bug before that happen. Have a look at the [release page on the Github repo](https://github.com/JF002/Pinetime/releases) to see if a newer version is available.
+As of now, InfiniTime 0.7.1 is the latest released version, but 0.8.x is to be released soon. We have to fix one annoying bug before that happen. Have a look at the [release page on the Github repo](https://github.com/JF002/Pinetime/releases) to see if a newer version is available.
 
 Once a new version is available, you can use NRFConnect on your phone to upgrade the firmware on your watch.
 
@@ -77,11 +81,11 @@ There are a lot of ways to contribute to InfiniTime or other projects:
 
 # Join the community
 As I said before, the PineTime project has a great community, with very active people, and I enjoy joining them whenever I can!
-chat room and forum. If you want to actively develop on your PineTime, or just ask a question or suggest an idea, just join us : 
+If you want to actively develop on your PineTime, just ask a question or suggest an idea, just join us : 
 
  - [PineTime forum](https://forum.pine64.org/forumdisplay.php?fid=134)
  - [Matrix Channel](https://app.element.io/#/room/#pinetime:matrix.org)
- - IRC Server: irc.pine64.org Channel: PineTime
+ - IRC Server: irc.pine64.org, channel: PineTime
  - [Telegram group](https://t.me/pinetime)
  - [Discord server invite](https://discordapp.com/invite/DgB7kzr0)
  
