@@ -4,6 +4,9 @@ date: 2020-09-20T11:58:39-05:00
 tags: ["PineTime"]
 ---
  
+![Pinetime](1.jpeg)
+*Picture by [paperlover.vi](https://www.instagram.com/paperlover.vi/)*
+
 First of all, congratulations! I hope you'll have a lot of fun coding, hacking and building projects around the PineTime.
 
 # About the devkit
