@@ -9,6 +9,9 @@ tags: ["PineTime", "Release"]
 
 **[Download and release note on Github](https://github.com/JF002/Pinetime/releases/tag/0.9.0)**
 
+**See it in video :**
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://video.codingfield.com/videos/embed/aa763c87-da82-42b6-ace5-21923a210049" frameborder="0" allowfullscreen></iframe>
+
 This version is certainly the first version that receives the most feedbacks from users and the most contributions from other developers, and I'm very happy that InfiniTime receives that much attention!
 
 As usual, this new version fixes some bugs and brings new features and improvements.
@@ -27,7 +30,6 @@ The **BLE connectivity** has also been improved, it is now easier to connect/rec
 Finally, multiple pull-requests that bring improvements to the documentation, code structure and coding guidelines have been merged in this version.
 
 I would like to **thank every one who contributed to this release** by reporting bugs, by contributing to the code and documentation and simply by providing feedback to me and other developers!
-
 
 
 
