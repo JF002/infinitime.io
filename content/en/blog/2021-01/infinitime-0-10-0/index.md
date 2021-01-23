@@ -1,5 +1,5 @@
 ---
-title: "InfiniTime 0.1i0.0"
+title: "InfiniTime 0.10.0"
 date: 2021-01-04T11:58:39-05:00
 tags: ["PineTime", "Release"]
 ---
