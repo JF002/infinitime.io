@@ -1,6 +1,6 @@
 ---
-title: "My new PineTime development setupo with current measurement"
-date: 2021-03-01T11:58:39-05:00
+title: "My new PineTime development setup with current measurement"
+date: 2021-03-02T11:58:39-05:00
 tags: ["PineTime"]
 ---
 
