@@ -42,14 +42,17 @@ Soldering a connector to the SWD pins and adding a connector on the battery wire
 
 Here is the **devkit** before any manipulation:
 ![Devkit before the surgery](00-before.png)
-You can see the **PCB**, the **battery** and the **heart rate sensor** on the top. The **BLE antenna* is also visible on the right of the battery. The **SWD** pads are hidden under the antenna.
+
+You can see the **PCB**, the **battery** and the **heart rate sensor** on the top. The *BLE antenna* is also visible on the right of the battery. The **SWD** pads are hidden under the antenna.
 
 First, I **disconnected the connectors** and **unmounted the PCB** so that I can easily solder a connector on the SWD pads:
 ![Devkit before the surgery](01-unmount.png)
+
 Now, the SWD pads are more visible.
 
 For the next step, I recommend you use a soldering iron with a very small tip. I use the [Pinecil, the soldering iron from Pine64](https://www.pine64.org/pinecil/). On the next picture, you can see I slightly bent the antenna to place the connector on the SWD pad.
 ![The pinecil](02-pinecil.png)
+
 Carefully **solder the connector on the back of the PCB**. While you're at it, add a connector on the battery wires (**take care not to short the battery during this step!**) : unsolder the battery, solder a connector on the battery wire and the corresponding connector on the PCB.
 
 ![After the soldering...](03-connector_battery.png)
@@ -67,7 +70,7 @@ Here is the result after a bit of cleaning :
 
 To measure the current that flows between the battery and the PineTime, I use a [INA219](https://www.best-microcontroller-projects.com/ina219.html) board. This chip is a voltage and current measurement IC that connects to an I²C bus. It's probably not the most accurate way to measure the current, but it's really cheap and easy to use.
 
-The INA219 Vin+ and Vin- must be connected in between the battery and the PineTime, on the red wire.
+The INA219 Vin+ and Vin- must be connected in between the battery and the PineTime, on the red (+) wire.
 
 I wanted to build a standlone tool that I can easily connect to any of my projects. That's why I decided to use the [M5Stack Fire module](https://m5stack.com/products/fire-iot-development-kit) to build my own DIY power monitoring tool. The M5Fire module is based on the ESP32 MCU and provides many devices like a RGB LED, a speaker and and nice LCD display.
 
