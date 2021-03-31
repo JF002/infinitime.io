@@ -12,6 +12,7 @@ Infinitime is an open source firmware for the [Pinetime](https://www.pine64.org/
 * **BLE** communication
 * **Rich user interface** via display, touchpanel and push button
 * Time synchronisation, notifications and music control via **BLE**
+* Heart rate measurement
 * Multiple 'apps' :
     * **Clock** (displays the date, time, battery level, ble connection status, heart rate)
     * **System info** (displays various info : BLE MAC, build date/time, uptime, version,...)
@@ -22,9 +23,12 @@ Infinitime is an open source firmware for the [Pinetime](https://www.pine64.org/
     * **Notification** (displays the last notification received)
     * **Paddle** (single player pong-like game)
     * **Two** (2048 clone game)
-* Supported by 2 companion apps (developpments ongoing):
+    * **Stopwatch** (with all the necessary functions such as play, pause, lap, stop)
+* Supported by companion apps (developpments is in progress):
     * **Gadgetbridge** (on Android)
     * **Amazfish** (on SailfishOS and Linux)
+    * **Siglo** (on Linux)
+    * [**Experimental**] **WebBLEWatch** Synchronize time directly from your web browser. video
 * [Experimental] **OTA** (Over-the-air) update via BLE
 * [Experimental] **Bootloader** based on MCUBoot
 
