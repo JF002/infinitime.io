@@ -1,5 +1,5 @@
 ---
-title: "InfiniTime 1.0.0 "Red Cherry"
+title: "InfiniTime 1.0.0 "\Red Cherry\""
 date: 2021-04-21T11:58:39-05:00
 tags: ["PineTime"]
 ---
