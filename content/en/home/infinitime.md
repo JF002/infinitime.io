@@ -43,7 +43,7 @@ Infinitime is an open source firmware for the [Pinetime](https://www.pine64.org/
   * System information
 - Supported by 3 companion apps (development is in progress):
   * [Gadgetbridge](https://codeberg.org/Freeyourgadget/Gadgetbridge/) (on Android)
-  * [Amazfish](https://openrepos.net/content/piggz/amazfish) (on SailfishOS and Linux)
+  * Amazfish (on [Sailfish](https://openrepos.net/content/piggz/amazfish), Linux, and [Ubuntu Touch](https://open-store.io/app/uk.co.piggz.amazfish))
   * [Siglo](https://github.com/alexr4535/siglo) (on Linux)
   * **[Experimental]** [WebBLEWatch](https://hubmartin.github.io/WebBLEWatch/) Synchronize time directly from your web browser. [video](https://youtu.be/IakiuhVDdrY)
 - OTA (Over-the-air) update via BLE
